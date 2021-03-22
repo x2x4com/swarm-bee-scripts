@@ -28,9 +28,7 @@ MethodID: 0x576d7271
 
 [参考地址](https://goerli.etherscan.io/address/0x9DfA662B12993eCfB0d70cdca0fa9111CBE3AB6f#code)
 
-然后节点会将EA1的10个gbzz发送给支票合约
-
-
+然后节点会将EA1的10个gbzz发送给~~支票合约~~EA1
 
 兑换合约
 
